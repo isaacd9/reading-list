@@ -17,4 +17,5 @@
 	- [Up Your Alley 2024: Kinksters revel in leather, latex and leashes](https://sfstandard.com/2024/07/28/upyouralley-fetish-fair-takes-over-soma-sanfrancisco/)
 	- [Elon Musk, Reid Hoffman and Other Tech Billionaires Brawl Over Politics - The New York Times](https://www.nytimes.com/2024/07/29/technology/silicon-valley-politics-elon-musk-reid-hoffman.html)
 	- [Park Fire Evacuees in California Wait for News About Their Homes - The New York Times](https://www.nytimes.com/2024/07/29/us/park-fire-california-wildfire-evacuation.html)
+	- [Access to this page has been denied](https://www.sfchronicle.com/health/article/anti-trans-lawsuit-17801484.php)
 
