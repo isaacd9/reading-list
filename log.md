@@ -15,4 +15,5 @@
 	- [Traffic Enforcement Dwindled in the Pandemic. In Many Places, It Hasn’t Come Back. - The New York Times](https://www.nytimes.com/interactive/2024/07/29/upshot/traffic-enforcement-dwindled.html)
 	- [San Francisco residents fed up with ‘entitled’ dog owners](https://sfstandard.com/2024/07/29/san-francisco-dog-haters/)
 	- [Up Your Alley 2024: Kinksters revel in leather, latex and leashes](https://sfstandard.com/2024/07/28/upyouralley-fetish-fair-takes-over-soma-sanfrancisco/)
+	- [Elon Musk, Reid Hoffman and Other Tech Billionaires Brawl Over Politics - The New York Times](https://www.nytimes.com/2024/07/29/technology/silicon-valley-politics-elon-musk-reid-hoffman.html)
 
