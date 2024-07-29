@@ -16,6 +16,10 @@
       {
         "title": "Pragmatism, Neutrality and Leadership – charity.wtf",
         "url": "https://charity.wtf/2024/07/24/pragmatism-neutrality-and-leadership/amp/"
+      },
+      {
+        "title": "Generic methods cannot have non-generic defaults in Sorbet – Jake Zimmerman",
+        "url": "https://blog.jez.io/generic-method-default/"
       }
     ]
   }
