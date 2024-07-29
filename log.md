@@ -12,4 +12,5 @@
 	- [For elite baguette sandwiches, you need to go to these Bay Area bakeries](https://www.sfchronicle.com/food/restaurants/article/baguette-sandwiches-bay-area-19518341.php)
 - 2024-07-29
 	- [Biden Calls for Changes to Supreme Court - The New York Times](https://www.nytimes.com/2024/07/29/us/politics/biden-supreme-court-austin-texas.html)
+	- [Traffic Enforcement Dwindled in the Pandemic. In Many Places, It Hasn’t Come Back. - The New York Times](https://www.nytimes.com/interactive/2024/07/29/upshot/traffic-enforcement-dwindled.html)
 
