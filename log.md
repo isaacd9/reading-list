@@ -17,7 +17,8 @@
 	- [Up Your Alley 2024: Kinksters revel in leather, latex and leashes](https://sfstandard.com/2024/07/28/upyouralley-fetish-fair-takes-over-soma-sanfrancisco/)
 	- [Elon Musk, Reid Hoffman and Other Tech Billionaires Brawl Over Politics - The New York Times](https://www.nytimes.com/2024/07/29/technology/silicon-valley-politics-elon-musk-reid-hoffman.html)
 	- [Park Fire Evacuees in California Wait for News About Their Homes - The New York Times](https://www.nytimes.com/2024/07/29/us/park-fire-california-wildfire-evacuation.html)
-	- [Access to this page has been denied](https://www.sfchronicle.com/health/article/anti-trans-lawsuit-17801484.php)
+	- [Conservative group sues Kaiser Permanente over transgender care](https://www.sfchronicle.com/health/article/anti-trans-lawsuit-17801484.php)
 	- [What’s Up With Chloe Cole’s Lawsuit? — Assigned](https://www.assignedmedia.org/breaking-news/chloe-cole-brockman-kaiser-lawsuit-arbitration)
 	- [An Exclusive Prison Chat With Sam Bankman-Fried - Puck](https://puck.news/exclusive-prison-chat-with-sam-bankman-fried/)
+	- [The Federal Prisoner Transit System—aka “Diesel Therapy”—Is Hell | The Marshall Project](https://www.themarshallproject.org/2019/08/15/the-federal-prisoner-transit-system-aka-diesel-therapy-is-hell)
 
