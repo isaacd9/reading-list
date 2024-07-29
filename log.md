@@ -8,4 +8,5 @@
 	- [Jay-Z effect: white truffle traders hope for boost after rapper's endorsement | Italy | The Guardian](https://amp.theguardian.com/world/2012/nov/19/jay-z-effect-white-truffle)
 	- [Inside the birthday blowouts of Silicon Valley rich kids](https://sfstandard.com/2024/07/28/kid-parties-silicon-valley-entertainers/)
 	- [How Do You Solve a Problem Like Elon? - The New York Times](https://www.nytimes.com/2024/07/27/technology/linda-yaccarino-x-ceo-elon-musk.html)
+	- [The cruise that will get you chased by the Chinese coastguard](https://www.economist.com/1843/2024/07/23/the-cruise-that-will-get-you-chased-by-the-chinese-coastguard)
 
