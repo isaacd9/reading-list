@@ -19,4 +19,5 @@
 	- [Park Fire Evacuees in California Wait for News About Their Homes - The New York Times](https://www.nytimes.com/2024/07/29/us/park-fire-california-wildfire-evacuation.html)
 	- [Access to this page has been denied](https://www.sfchronicle.com/health/article/anti-trans-lawsuit-17801484.php)
 	- [What’s Up With Chloe Cole’s Lawsuit? — Assigned](https://www.assignedmedia.org/breaking-news/chloe-cole-brockman-kaiser-lawsuit-arbitration)
+	- [An Exclusive Prison Chat With Sam Bankman-Fried - Puck](https://puck.news/exclusive-prison-chat-with-sam-bankman-fried/)
 
