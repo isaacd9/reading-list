@@ -5,4 +5,5 @@
 	- [Pragmatism, Neutrality and Leadership – charity.wtf](https://charity.wtf/2024/07/24/pragmatism-neutrality-and-leadership/amp/)
 	- [Generic methods cannot have non-generic defaults in Sorbet – Jake Zimmerman](https://blog.jez.io/generic-method-default/)
 	- [Hourslong Lines as Voters Surge to Polls in Venezuela’s Pivotal Election - The New York Times](https://www.nytimes.com/2024/07/28/world/americas/venezuela-election-maduro-gonzalez-machado.html)
+	- [Jay-Z effect: white truffle traders hope for boost after rapper's endorsement | Italy | The Guardian](https://amp.theguardian.com/world/2012/nov/19/jay-z-effect-white-truffle)
 

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 
 	"github.com/anaskhan96/soup"
 )
@@ -79,6 +80,12 @@ func addToReadingList(path, url, title string) (*ReadingList, error) {
 	return rl, os.WriteFile(path, jsonData, 0644)
 }
 
+func mdFilename(jsonPath string) string {
+	jsonBase := filepath.Base(jsonPath)
+	name := jsonPath[:len(jsonBase)-len(filepath.Ext(jsonPath))] + ".md"
+	return filepath.Join(filepath.Dir(jsonPath), name)
+}
+
 func add(args []string) {
 	if len(args) != 4 {
 		log.Fatalf("usage: %s add <json list> <url>", os.Args[0])
@@ -88,6 +95,10 @@ func add(args []string) {
 		list = args[2]
 		url  = args[3]
 	)
+
+	if filepath.Ext(list) != ".json" {
+		log.Fatalf("reading list must be a json file")
+	}
 
 	title, err := getArticleTitle(url)
 	if err != nil {
@@ -99,7 +110,16 @@ func add(args []string) {
 		log.Fatalf("could not add article to reading list: %v", err)
 	}
 
-	markdown.Execute(os.Stdout, rl.Articles)
+	log.Printf("writing to %s", mdFilename(list))
+	mdFile, err := os.Create(mdFilename(list))
+	defer mdFile.Close()
+	if err != nil {
+		log.Fatalf("could not open markdown file: %v", err)
+	}
+
+	if err := markdown.Execute(mdFile, rl.Articles); err != nil {
+		log.Fatalf("could not write to markdown file: %v", err)
+	}
 }
 
 func generate(args []string) {
