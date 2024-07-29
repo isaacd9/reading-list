@@ -9,4 +9,5 @@
 	- [Inside the birthday blowouts of Silicon Valley rich kids](https://sfstandard.com/2024/07/28/kid-parties-silicon-valley-entertainers/)
 	- [How Do You Solve a Problem Like Elon? - The New York Times](https://www.nytimes.com/2024/07/27/technology/linda-yaccarino-x-ceo-elon-musk.html)
 	- [The cruise that will get you chased by the Chinese coastguard](https://www.economist.com/1843/2024/07/23/the-cruise-that-will-get-you-chased-by-the-chinese-coastguard)
+	- [For elite baguette sandwiches, you need to go to these Bay Area bakeries](https://www.sfchronicle.com/food/restaurants/article/baguette-sandwiches-bay-area-19518341.php)
 
