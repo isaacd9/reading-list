@@ -21,4 +21,6 @@
 	- [What’s Up With Chloe Cole’s Lawsuit? — Assigned](https://www.assignedmedia.org/breaking-news/chloe-cole-brockman-kaiser-lawsuit-arbitration)
 	- [An Exclusive Prison Chat With Sam Bankman-Fried - Puck](https://puck.news/exclusive-prison-chat-with-sam-bankman-fried/)
 	- [The Federal Prisoner Transit System—aka “Diesel Therapy”—Is Hell | The Marshall Project](https://www.themarshallproject.org/2019/08/15/the-federal-prisoner-transit-system-aka-diesel-therapy-is-hell)
+- 2024-07-30
+	- [William L. Calley Jr., Convicted in My Lai Massacre, Is Dead at 80 - The New York Times](https://www.nytimes.com/2024/07/29/us/william-calley-dead.html)
 
