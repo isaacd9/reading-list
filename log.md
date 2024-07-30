@@ -27,4 +27,5 @@
 	- [Kamala Harris’s V.P. Scorecard - The New York Times](https://www.nytimes.com/2024/07/30/us/politics/kamala-harris-vp-pick.html)
 	- [Boxers who failed gender tests at world championships cleared to compete at Olympics | Paris Olympic Games 2024 | The Guardian](https://www.theguardian.com/sport/article/2024/jul/29/boxers-who-failed-gender-tests-at-world-championships-cleared-to-compete-at-olympics)
 	- [Chinese E.V. Makers Are Upending Thailand’s Auto Market - The New York Times](https://www.nytimes.com/2024/07/30/business/chinese-electric-vehicles-thailand.html)
+	- [Making Machines Move · The Fly Blog](https://fly.io/blog/machine-migrations/)
 
