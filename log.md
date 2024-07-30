@@ -25,4 +25,5 @@
 	- [William L. Calley Jr., Convicted in My Lai Massacre, Is Dead at 80 - The New York Times](https://www.nytimes.com/2024/07/29/us/william-calley-dead.html)
 	- [Bonsucro Certified Indian Sugar From Abusive Fields - The New York Times](https://www.nytimes.com/2024/07/30/world/asia/sugar-human-rights-bonsucro-india-hysterectomies.html)
 	- [Kamala Harris’s V.P. Scorecard - The New York Times](https://www.nytimes.com/2024/07/30/us/politics/kamala-harris-vp-pick.html)
+	- [Boxers who failed gender tests at world championships cleared to compete at Olympics | Paris Olympic Games 2024 | The Guardian](https://www.theguardian.com/sport/article/2024/jul/29/boxers-who-failed-gender-tests-at-world-championships-cleared-to-compete-at-olympics)
 
