@@ -30,4 +30,5 @@
 	- [Making Machines Move · The Fly Blog](https://fly.io/blog/machine-migrations/)
 - 2024-07-31
 	- [Who’s Afraid of Josh Shapiro? - The Atlantic](https://www.theatlantic.com/politics/archive/2024/07/josh-shapiro-netanyahu-jewish-vp/679300/)
+	- [Not Even Anthony Edwards Can Beat an Olympic Table Tennis Player - The New York Times](https://www.nytimes.com/2024/07/30/sports/table-tennis-anthony-edwards.html)
 
