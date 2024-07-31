@@ -28,4 +28,6 @@
 	- [Boxers who failed gender tests at world championships cleared to compete at Olympics | Paris Olympic Games 2024 | The Guardian](https://www.theguardian.com/sport/article/2024/jul/29/boxers-who-failed-gender-tests-at-world-championships-cleared-to-compete-at-olympics)
 	- [Chinese E.V. Makers Are Upending Thailand’s Auto Market - The New York Times](https://www.nytimes.com/2024/07/30/business/chinese-electric-vehicles-thailand.html)
 	- [Making Machines Move · The Fly Blog](https://fly.io/blog/machine-migrations/)
+- 2024-07-31
+	- [Who’s Afraid of Josh Shapiro? - The Atlantic](https://www.theatlantic.com/politics/archive/2024/07/josh-shapiro-netanyahu-jewish-vp/679300/)
 
