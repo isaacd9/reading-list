@@ -39,4 +39,5 @@
 	- [Harris Has Votes Needed to Be Democrats’ Nominee, D.N.C. Says - The New York Times](https://www.nytimes.com/2024/08/02/us/politics/kamala-harris-democrats-nominee-official.html)
 	- [How JD Vance Thinks About Power - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/jd-vance-donald-trump-2024-campaign.html)
 	- [Trump Proposes Fox News Debate with Kamala Harris on Sept. 4 - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/trump-harris-debate-fox-news.html)
+	- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 
