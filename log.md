@@ -40,4 +40,5 @@
 	- [How JD Vance Thinks About Power - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/jd-vance-donald-trump-2024-campaign.html)
 	- [Trump Proposes Fox News Debate with Kamala Harris on Sept. 4 - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/trump-harris-debate-fox-news.html)
 	- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
+	- [Inside the Russian Prisoner Swap: Long Johns, Forensics and a Bound Killer - The New York Times](https://www.nytimes.com/2024/08/03/world/europe/russia-prisoner-swap.html)
 
