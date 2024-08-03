@@ -37,4 +37,5 @@
 	- [Ex-AG Holder: Accused 9/11 terrorists avoid death row because of 'political hacks' who blocked a U.S. trial](https://www.yahoo.com/news/ex-ag-holder-accused-9-000126477.html)
 - 2024-08-03
 	- [Harris Has Votes Needed to Be Democrats’ Nominee, D.N.C. Says - The New York Times](https://www.nytimes.com/2024/08/02/us/politics/kamala-harris-democrats-nominee-official.html)
+	- [How JD Vance Thinks About Power - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/jd-vance-donald-trump-2024-campaign.html)
 
