@@ -34,4 +34,5 @@
 - 2024-08-02
 	- [What Kamala Harris Learned From a Bruising 2020 Primary - The New York Times](https://www.nytimes.com/2024/08/02/us/kamala-harris-2020-primary.html)
 	- [Behind the Prisoner Swap: Spies, a Killer, Secret Messages and Unseen Diplomacy - The New York Times](https://www.nytimes.com/2024/08/01/us/politics/diplomacy-prisoner-swap-deal.html)
+	- [Ex-AG Holder: Accused 9/11 terrorists avoid death row because of 'political hacks' who blocked a U.S. trial](https://www.yahoo.com/news/ex-ag-holder-accused-9-000126477.html)
 
