@@ -41,4 +41,5 @@
 	- [Trump Proposes Fox News Debate with Kamala Harris on Sept. 4 - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/trump-harris-debate-fox-news.html)
 	- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 	- [Inside the Russian Prisoner Swap: Long Johns, Forensics and a Bound Killer - The New York Times](https://www.nytimes.com/2024/08/03/world/europe/russia-prisoner-swap.html)
+	- [Whirlwind Harris Veepstakes Reaches Its Most Eager Phase Yet - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/harris-vice-president-selection.html)
 
