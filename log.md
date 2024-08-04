@@ -42,4 +42,5 @@
 	- ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 	- [Inside the Russian Prisoner Swap: Long Johns, Forensics and a Bound Killer - The New York Times](https://www.nytimes.com/2024/08/03/world/europe/russia-prisoner-swap.html)
 	- [Whirlwind Harris Veepstakes Reaches Its Most Eager Phase Yet - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/harris-vice-president-selection.html)
+	- [Killing of Hamas Leader Fuels More Tension Between Biden and Netanyahu - The New York Times](https://www.nytimes.com/2024/08/03/us/politics/us-israel-hamas-assassination.html)
 
